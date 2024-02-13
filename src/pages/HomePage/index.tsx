@@ -1,5 +1,4 @@
 import Layout from "../../components/layout";
-import React from "react";
 import adelia from "../../assets/adelia.png";
 import hannon from "../../assets/hannon.png";
 import pokemon from "../../assets/pokemon.png";
