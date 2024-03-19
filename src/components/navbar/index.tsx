@@ -16,7 +16,7 @@ const Navbar = () => {
           Projects
         </a>
         <a
-          href="https://drive.google.com/file/d/1WQwfSOBNunIgwv6KFlFTuGkAclM0Ol1i/view?usp=sharing"
+          href="https://drive.google.com/file/d/1Z08RA_CT0ykL7L78kttWFfaXLZx0Nvk5/view?usp=sharing"
           target="_blank"
           className="hover:text-second hover:underline cursor-pointer"
         >
